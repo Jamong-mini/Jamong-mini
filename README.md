@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
+<h2>👨🏻‍💻 Jamong 🇰🇷</h2>
+<p>Hello, I'm an aspiring iOS developer.</p>
+<p>My main skill is Swift, and I also use Python.</p>
 
-<!--
-**Jamong-mini/Jamong-mini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
+<h3> ⚾️ My hobby </h3>
+<p> ⚾️ Baseball / 👨🏻‍💻 programming / 🎧 music / 🖥 Youtube / 🕹 Games </p>
 
-Here are some ideas to get you started:
+#
+<h3> 💡Tech Stack💡</h3>
+<p>
+<img src="https://img.shields.io/badge/Swift-orange?style=flat&logo=Swift&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Selenium-9cf?style=flat&logo=Selenium&logoColor=Green"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PyQt-lightgrey?style=flat&logo=Qt&logoColor=Green"/>&nbsp;&nbsp;
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<img src="https://img.shields.io/badge/Xcode-white?style=flat&logo=xcode&logoColor=blue"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PyCharm-brightgreen?style=flat&logo=Pycharm&logoColor=black"/>&nbsp;&nbsp;
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;
+</p>
+  
+#
+  
+<h3>👨🏻‍💻 GitHub stats</h3>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJamong-mini&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+![Anurag's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jamong-mini&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jamong-mini&layout=compact&theme=tokyonight)
+ 
+#
+  
+<h3>🏅 Baekjoon solved rank</h3>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jamong_alsl)](https://solved.ac/jamong_alsl/)
+</div>
