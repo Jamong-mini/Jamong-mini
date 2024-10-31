@@ -45,8 +45,9 @@
 </div>
 
 #
-  
+<div align="center">
 <h3>🏅 programmers solved rank</h3>
+</div>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/tomy8964/Programmers_Badge_Generator/main/result/result.svg" alt="Programmers Badge">
