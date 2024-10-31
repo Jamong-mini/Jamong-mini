@@ -43,3 +43,13 @@
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jamong_alsl)](https://solved.ac/jamong_alsl/)
 </div>
+
+#
+  
+<h3>🏅 programmers solved rank</h3>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/tomy8964/Programmers_Badge_Generator/main/result/result.svg" alt="Programmers Badge">
+</div>
+
+
