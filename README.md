@@ -50,7 +50,7 @@
 </div>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/tomy8964/Programmers_Badge_Generator/main/result/result.svg](https://github.com/Jamong-mini/github-programmers-rank/blob/master/lib/result.svg" alt="Programmers Badge">
+    <img src="https://github.com/Jamong-mini/github-programmers-rank/blob/master/lib/result.svg" alt="Programmers Badge">
 </div>
 
 
