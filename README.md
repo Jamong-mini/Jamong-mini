@@ -38,13 +38,6 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jamong-mini&layout=compact&theme=tokyonight)
  
 #
-  
-<h3>🏅 Baekjoon solved rank</h3>
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jamong_alsl)](https://solved.ac/jamong_alsl/)
-</div>
-
-#
 <div align="center">
 <h3>🏅 programmers solved rank</h3>
 </div>
